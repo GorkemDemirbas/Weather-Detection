@@ -1,2 +1,2 @@
 # Weather-Detection
-Weather Detection and Warning System Project
+Weather Detection and Warning System Project by using STM32F4 Nucleo Series Microcontroller Board. In this project, I made a system that detects the current weather condition by using LM35 Temperature sensor and gives a warning at the exit using a passive buzzer, LED and 16x2 LCD screen, and warnings were changed according to different situations like normal,hot, cold and so on. This project was made in STM32CubeIde. The codes were written in C programming language. Also ready-to-use libraries were used in this project. 
