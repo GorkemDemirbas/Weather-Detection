@@ -220,8 +220,6 @@ int main(void)
 		  else
 		  {
 			  /*Hava durumu normaldir (20-27 derece arası), buzzer çalışmasın !, LCD ekranında hava durumu normal yazsın !!!*/
-			  /*Başlangıçta ekranı bir temizle*/
-			  Lcd_clear(&lcd);
 
 			  /*LCD YAZISI (Hava Durumu NORMAL)*/
 			  Lcd_cursor(&lcd, 0,3);
